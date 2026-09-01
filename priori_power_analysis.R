@@ -1,7 +1,7 @@
 # ============================================================
 # A PRIORI POWER ANALYSIS: AUDITORY NUDGE STUDY
 # Package version: pwrss 0.3.1
-# Target power: 95%
+# Target power: 80%
 # Alpha: .05
 # Smallest effect of interest: partial eta-squared = .01
 # ============================================================

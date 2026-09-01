@@ -85,7 +85,7 @@ for iSNR = 1:numel(snrDBs)
             snrDB, 0.999 / peakAbs);
     end
 
-    % Save the signal-present and noise-only mp3 files at 64 kHz.
+    % Save the signal-present and noise-only mp3 files at 48 kHz.
     snrLabel = sprintf('m%d', abs(snrDB));
     signalFilename = sprintf('snr_%s_signal.mp3', snrLabel);
     noiseOnlyFilename = sprintf('snr_%s_noiseonly.mp3', snrLabel);
